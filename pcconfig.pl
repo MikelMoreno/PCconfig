@@ -3,13 +3,9 @@
 %% All OS (windows, macos, linux)
 
 :- dynamic(known/2).
+:- include('database.pl').
 
-cpu('m1', ['light', 'medium'], ['linux', 'macos'], 'none', 'integrated').
-cpu('ryzen 5 5800x', ['medium', 'high'], ['windows', 'linux'], 'am4', 'discrete').
-
-gpu('m1', 'integrated', ['light']).
-gpu('rtx 3060', 'discrete', ['medium', 'high']).
-
+% Functiones de los parametros de entrada y de memoria
 haveparams(Perf, Os) :-
   isknown(perf, Perf),
   isknown(os, Os).
@@ -20,6 +16,7 @@ isknown(A, V) :-
 isknown(A, V) :-
   known(A, V).
 
+% Handlers de los parametros de entrada
 use(Use) :-
   known(use, Use).
 use(Use) :-
@@ -40,6 +37,7 @@ ask(A, V) :-
   read(V),
   asserta(known(A, V)).
 
+% RAM minima en funcion del uso y performance
 minram(R) :-
   use(editing),
   perf(high),
@@ -50,11 +48,17 @@ minram(R) :-
 minram(R) :-
   R = 8.
 
-iscpu(CList) :-
+% Checkea la compatibilidad de la GPU con la CPU
+compgpu(G) :-
+  cpu(_, _, _, _, gputype(X)),
+  gpu(G, gputype(X)).
+
+% Checkea todas las CPUs compatibles con la entrada del usuario
+compcpu(CList) :-
   haveparams(Perf, Os),
-  findall(C, (cpu(C, L1, L2, _, _), member(Perf, L1), member(Os, L2)), CList),
+  findall(C, (cpu(C, perf(L1), os(L2), _, _), member(Perf, L1), member(Os, L2)), CList),
   CList \= [].
-iscpu(_) :-
+compcpu(_) :-
   write('No possible CPU with those requirements.'),
   fail.
   
