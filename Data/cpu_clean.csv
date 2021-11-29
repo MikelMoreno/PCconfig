@@ -1,165 +1,14 @@
 Manufacturer,Name,Socket,TDP,Performance
-AMD,A10-9700,Socket AM4,65,light
-AMD,A10-9700E,Socket AM4,35,light
-AMD,A12-9800,Socket AM4,65,light
-AMD,A12-9800E,Socket AM4,35,light
-AMD,A6-9500,Socket AM4,65,light
-AMD,A6-9500E,Socket AM4,35,light
-AMD,A6-9550,Socket AM4,65,light
-AMD,A8-9600,Socket AM4,65,light
-AMD,Athlon X4 940,Socket AM4,65,light
-AMD,Athlon X4 950,Socket AM4,65,light
-AMD,Athlon X4 970,Socket AM4,65,light
-AMD,Ryzen 3 1200,Socket AM4,65,light
-AMD,Ryzen 3 1300,Socket AM4,65,light
-AMD,Ryzen 3 1300X,Socket AM4,65,light
-AMD,Ryzen 3 PRO 1200,Socket AM4,65,light
-AMD,Ryzen 3 PRO 1300,Socket AM4,65,light
-AMD,Ryzen 5 1400,Socket AM4,65,moderate
-AMD,Ryzen 5 1500X,Socket AM4,65,moderate
-AMD,Ryzen 5 1600,Socket AM4,65,moderate
-AMD,Ryzen 5 1600X,Socket AM4,95,moderate
-AMD,Ryzen 5 PRO 1500,Socket AM4,65,moderate
-AMD,Ryzen 5 PRO 1600,Socket AM4,65,moderate
-AMD,Ryzen 7 1700,Socket AM4,65,moderate
-AMD,Ryzen 7 1700X,Socket AM4,95,high
-AMD,Ryzen 7 1800X,Socket AM4,95,high
-AMD,Ryzen 7 PRO 1700,Socket AM4,65,moderate
-AMD,Ryzen 7 PRO 1700X,Socket AM4,95,high
-AMD,Ryzen Threadripper 1900,Socket SP3r2,125,moderate
-AMD,Ryzen Threadripper 1900X,Socket SP3r2,125,high
-AMD,Ryzen Threadripper 1920,Socket SP3r2,140,high
-AMD,Ryzen Threadripper 1920X,Socket SP3r2,180,high
-AMD,Ryzen Threadripper 1940,Socket SP3r2,180,high
-AMD,Ryzen Threadripper 1940X,Socket SP3r2,180,high
-AMD,Ryzen Threadripper 1950,Socket SP3r2,180,high
-AMD,Ryzen Threadripper 1950X,Socket SP3r2,180,high
-Intel,Celeron G3930,Socket 1151,51,light
-Intel,Celeron G3930T,Socket 1151,35,light
-Intel,Celeron G3950,Socket 1151,51,light
-Intel,Core i3-7100,Socket 1151,51,light
-Intel,Core i3-7100T,Socket 1151,35,light
-Intel,Core i3-7120,Socket 1151,51,light
-Intel,Core i3-7120T,Socket 1151,35,light
-Intel,Core i3-7300,Socket 1151,51,light
-Intel,Core i3-7300T,Socket 1151,35,light
-Intel,Core i3-7320,Socket 1151,51,light
-Intel,Core i3-7320T,Socket 1151,35,light
-Intel,Core i3-7340,Socket 1151,51,light
-Intel,Core i3-7350K,Socket 1151,60,light
-Intel,Core i3-7360X,Socket 2066,112,light
-Intel,Core i3-8100,Socket 1151,62,light
-Intel,Core i3-8350K,Socket 1151,91,light
-Intel,Core i5-7400,Socket 1151,65,light
-Intel,Core i5-7400T,Socket 1151,35,light
-Intel,Core i5-7500,Socket 1151,65,light
-Intel,Core i5-7500T,Socket 1151,35,light
-Intel,Core i5-7600,Socket 1151,65,light
-Intel,Core i5-7600K,Socket 1151,91,light
-Intel,Core i5-7600T,Socket 1151,35,light
-Intel,Core i5-7640X,Socket 2066,112,light
-Intel,Core i5-8400,Socket 1151,65,moderate
-Intel,Core i5-8600K,Socket 1151,95,moderate
-Intel,Core i7-7700,Socket 1151,65,moderate
-Intel,Core i7-7700K,Socket 1151,91,moderate
-Intel,Core i7-7700T,Socket 1151,35,moderate
-Intel,Core i7-7740X,Socket 2066,112,moderate
-Intel,Core i7-7800X,Socket 2066,140,moderate
-Intel,Core i7-7820X,Socket 2066,140,high
-Intel,Core i7-8700K,Socket 1151,95,moderate
-Intel,Core i9-7900X,Socket 2066,140,high
-Intel,Core i9-7920X,Socket 2066,140,high
-Intel,Core i9-7940X,Socket 2066,165,high
-Intel,Core i9-7960X,Socket 2066,165,high
-Intel,Core i9-7980XE,Socket 2066,165,high
-Intel,Pentium G4560,Socket 1151,51,light
-Intel,Pentium G4560T,Socket 1151,35,light
-Intel,Pentium G4600,Socket 1151,51,light
-Intel,Pentium G4600T,Socket 1151,35,light
-Intel,Pentium G4620,Socket 1151,51,light
-Intel,Pentium Silver J5005,BGA 1090,10,light
-AMD,A8-7680,Socket FM2+,45,light
-AMD,Athlon 200GE,Socket AM4,35,light
-AMD,Athlon 220GE,Socket AM4,35,light
-AMD,Athlon 220GE,Socket AM4,35,light
-AMD,Athlon 220GE,Socket AM4,35,light
-AMD,Athlon 240GE,Socket AM4,35,light
-AMD,Athlon PRO 200GE,Socket AM4,35,light
-AMD,Ryzen 3 2200G,Socket AM4,65,light
-AMD,Ryzen 3 2300X,Socket AM4,65,light
-AMD,Ryzen 5 2400G,Socket AM4,65,moderate
-AMD,Ryzen 5 2500X,Socket AM4,65,moderate
-AMD,Ryzen 5 2600,Socket AM4,65,moderate
-AMD,Ryzen 5 2600E,Socket AM4,65,moderate
-AMD,Ryzen 5 2600X,Socket AM4,95,moderate
-AMD,Ryzen 5 PRO 2400G,Socket AM4,65,moderate
-AMD,Ryzen 5 PRO 2600,Socket AM4,65,moderate
-AMD,Ryzen 7 2700,Socket AM4,65,high
-AMD,Ryzen 7 2700E,Socket AM4,65,high
-AMD,Ryzen 7 2700X,Socket AM4,105,high
-AMD,Ryzen 7 PRO 2700,Socket AM4,65,high
-AMD,Ryzen 7 PRO 2700X,Socket AM4,95,high
-AMD,Ryzen Embedded V1202B,Socket FP5,15,light
-AMD,Ryzen Embedded V1605B,Socket FP5,15,moderate
-AMD,Ryzen Embedded V1756B,Socket FP5,45,moderate
-AMD,Ryzen Embedded V1807B,Socket FP5,45,moderate
-AMD,Ryzen Threadripper 2920X,Socket SP3r2,180,high
-AMD,Ryzen Threadripper 2950X,Socket SP3r2,180,high
-AMD,Ryzen Threadripper 2970WX,Socket SP3r2,250,high
-AMD,Ryzen Threadripper 2990WX,Socket SP3r2,250,high
-Intel,Celeron G4900,Socket 1151,51,light
-Intel,Celeron G4920,Socket 1151,51,light
-Intel,Core i3-8000,Socket 1151,65,light
-Intel,Core i3-8020,Socket 1151,65,light
-Intel,Core i3-8100T,Socket 1151,35,light
-Intel,Core i3-8120,Socket 1151,65,light
-Intel,Core i3-8300,Socket 1151,62,light
-Intel,Core i3-8300T,Socket 1151,35,light
-Intel,Core i3-9000,Socket 1151,65,light
-Intel,Core i3-9100,Socket 1151,65,light
-Intel,Core i5-8400T,Socket 1151,35,light
-Intel,Core i5-8420,Socket 1151,65,moderate
-Intel,Core i5-8420T,Socket 1151,35,light
-Intel,Core i5-8500,Socket 1151,65,moderate
-Intel,Core i5-8500T,Socket 1151,35,light
-Intel,Core i5-8550,Socket 1151,65,moderate
-Intel,Core i5-8600,Socket 1151,65,moderate
-Intel,Core i5-8600T,Socket 1151,35,moderate
-Intel,Core i5-8650,Socket 1151,65,moderate
-Intel,Core i5-8650K,Socket 1151,95,moderate
-Intel,Core i5-9400,Socket 1151,65,moderate
-Intel,Core i5-9400T,Socket 1151,35,light
-Intel,Core i5-9500,Socket 1151,65,moderate
-Intel,Core i5-9600,Socket 1151,65,moderate
-Intel,Core i5-9600K,Socket 1151,95,moderate
-Intel,Core i7-8086K,Socket 1151,95,high
-Intel,Core i7-8670,Socket 1151,65,moderate
-Intel,Core i7-8670T,Socket 1151,35,moderate
-Intel,Core i7-8700,Socket 1151,65,moderate
-Intel,Core i7-8700T,Socket 1151,35,moderate
-Intel,Core i7-9700K,Socket 1151,95,moderate
-Intel,Core i7-9800X,Socket 2066,165,high
-Intel,Core i9-9820X,Socket 2066,165,high
-Intel,Core i9-9900K,Socket 1151,95,high
-Intel,Core i9-9900X,Socket 2066,165,high
-Intel,Core i9-9920X,Socket 2066,165,high
-Intel,Core i9-9940X,Socket 2066,165,high
-Intel,Core i9-9960X,Socket 2066,165,high
-Intel,Core i9-9980XE,Socket 2066,165,high
-Intel,Core i9-9990XE,Socket 2066,255,high
-Intel,Pentium Gold G5400,Socket 1151,51,light
-Intel,Pentium Gold G5500,Socket 1151,51,light
-Intel,Pentium Gold G5600,Socket 1151,51,light
 AMD,Athlon 3000G,Socket AM4,35,light
 AMD,Ryzen 3 3200G,Socket AM4,65,light
-AMD,Ryzen 5 3400G,Socket AM4,65,moderate
-AMD,Ryzen 5 3500X,Socket AM4,65,moderate
+AMD,Ryzen 5 3400G,Socket AM4,65,light
+AMD,Ryzen 5 3500X,Socket AM4,65,light
 AMD,Ryzen 5 3600,Socket AM4,65,moderate
 AMD,Ryzen 5 3600X,Socket AM4,95,moderate
 AMD,Ryzen 5 3600XT,Socket AM4,95,moderate
-AMD,Ryzen 7 2700X 50th Anniversary,Socket AM4,105,high
-AMD,Ryzen 7 3700X,Socket AM4,65,high
-AMD,Ryzen 7 3800X,Socket AM4,105,high
+AMD,Ryzen 7 2700X 50th Anniversary,Socket AM4,105,moderate
+AMD,Ryzen 7 3700X,Socket AM4,65,moderate
+AMD,Ryzen 7 3800X,Socket AM4,105,moderate
 AMD,Ryzen 9 3900X,Socket AM4,105,high
 AMD,Ryzen 9 3950X,Socket AM4,105,high
 AMD,Ryzen Threadripper 3960X,Socket TRX4,280,high
@@ -170,11 +19,11 @@ Intel,Core i3-9300,Socket 1151,62,light
 Intel,Core i3-9320,Socket 1151,62,light
 Intel,Core i3-9350K,Socket 1151,91,light
 Intel,Core i3-9350KF,Socket 1151,91,light
-Intel,Core i5-9400F,Socket 1151,65,moderate
-Intel,Core i5-9500F,Socket 1151,65,moderate
-Intel,Core i5-9600KF,Socket 1151,95,moderate
-Intel,Core i7-9700,Socket 1151,65,moderate
-Intel,Core i7-9700F,Socket 1151,65,moderate
+Intel,Core i5-9400F,Socket 1151,65,light
+Intel,Core i5-9500F,Socket 1151,65,light
+Intel,Core i5-9600KF,Socket 1151,95,light
+Intel,Core i7-9700,Socket 1151,65,light
+Intel,Core i7-9700F,Socket 1151,65,light
 Intel,Core i7-9700KF,Socket 1151,95,moderate
 Intel,Core i9-10900X,Socket 2066,165,high
 Intel,Core i9-10920X,Socket 2066,165,high
@@ -190,23 +39,23 @@ AMD,Athlon Gold PRO 3150G,Socket AM4,65,light
 AMD,Athlon Gold PRO 3150GE,Socket AM4,35,light
 AMD,Athlon Silver 3050GE,Socket AM4,35,light
 AMD,Athlon Silver PRO 3125GE,Socket AM4,35,light
-AMD,Ryzen 3 3100,Socket AM4,65,moderate
-AMD,Ryzen 3 3300X,Socket AM4,65,moderate
-AMD,Ryzen 3 4300G,Socket AM4,65,moderate
-AMD,Ryzen 3 4300GE,Socket AM4,35,moderate
-AMD,Ryzen 3 PRO 4350G,Socket AM4,65,moderate
-AMD,Ryzen 3 PRO 4350GE,Socket AM4,35,moderate
+AMD,Ryzen 3 3100,Socket AM4,65,light
+AMD,Ryzen 3 3300X,Socket AM4,65,light
+AMD,Ryzen 3 4300G,Socket AM4,65,light
+AMD,Ryzen 3 4300GE,Socket AM4,35,light
+AMD,Ryzen 3 PRO 4350G,Socket AM4,65,light
+AMD,Ryzen 3 PRO 4350GE,Socket AM4,35,light
 AMD,Ryzen 5 4600G,Socket AM4,65,moderate
 AMD,Ryzen 5 4600GE,Socket AM4,35,moderate
 AMD,Ryzen 5 5600X,Socket AM4,65,moderate
 AMD,Ryzen 5 PRO 4650G,Socket AM4,65,moderate
 AMD,Ryzen 5 PRO 4650GE,Socket AM4,35,moderate
-AMD,Ryzen 7 3800XT,Socket AM4,105,high
-AMD,Ryzen 7 4700G,Socket AM4,65,high
-AMD,Ryzen 7 4700GE,Socket AM4,35,high
-AMD,Ryzen 7 5800X,Socket AM4,105,high
-AMD,Ryzen 7 PRO 4750G,Socket AM4,65,high
-AMD,Ryzen 7 PRO 4750GE,Socket AM4,35,high
+AMD,Ryzen 7 3800XT,Socket AM4,105,moderate
+AMD,Ryzen 7 4700G,Socket AM4,65,moderate
+AMD,Ryzen 7 4700GE,Socket AM4,35,moderate
+AMD,Ryzen 7 5800X,Socket AM4,105,moderate
+AMD,Ryzen 7 PRO 4750G,Socket AM4,65,moderate
+AMD,Ryzen 7 PRO 4750GE,Socket AM4,35,moderate
 AMD,Ryzen 9 3900XT,Socket AM4,105,high
 AMD,Ryzen 9 5900X,Socket AM4,105,high
 AMD,Ryzen 9 5950X,Socket AM4,105,high
@@ -217,9 +66,9 @@ AMD,Ryzen Threadripper PRO 3975WX,Socket WRX8,280,high
 AMD,Ryzen Threadripper PRO 3995WX,Socket WRX8,280,high
 Intel,Celeron G5900,Socket 1200,58,light
 Intel,Celeron G5920,Socket 1200,58,light
-Intel,Core i3-10100,Socket 1200,65,moderate
-Intel,Core i3-10300,Socket 1200,62,moderate
-Intel,Core i3-10320,Socket 1200,91,moderate
+Intel,Core i3-10100,Socket 1200,65,light
+Intel,Core i3-10300,Socket 1200,62,light
+Intel,Core i3-10320,Socket 1200,91,light
 Intel,Core i3-10350K,Socket 1200,91,moderate
 Intel,Core i5-10400,Socket 1200,65,moderate
 Intel,Core i5-10400F,Socket 1200,65,moderate
@@ -227,8 +76,8 @@ Intel,Core i5-10500,Socket 1200,65,moderate
 Intel,Core i5-10600,Socket 1200,65,moderate
 Intel,Core i5-10600K,Socket 1200,125,moderate
 Intel,Core i5-10600KF,Socket 1200,95,moderate
-Intel,Core i7-10700,Socket 1200,65,high
-Intel,Core i7-10700F,Socket 1200,65,high
+Intel,Core i7-10700,Socket 1200,65,moderate
+Intel,Core i7-10700F,Socket 1200,65,moderate
 Intel,Core i7-10700K,Socket 1200,125,high
 Intel,Core i7-10700KF,Socket 1200,125,high
 Intel,Core i9-10800F,Socket 1200,65,high
@@ -241,16 +90,16 @@ Intel,Core i9-10990XE,Socket 2066,380,high
 Intel,Pentium Gold G6400,Socket 1200,58,light
 Intel,Pentium Gold G6500,Socket 1200,58,light
 Intel,Pentium Gold G6600,Socket 1200,58,light
-AMD,Ryzen 3 5300G,Socket AM4,65,moderate
+AMD,Ryzen 3 5300G,Socket AM4,65,light
 AMD,Ryzen 5 5600G,Socket AM4,65,moderate
-AMD,Ryzen 7 5700G,Socket AM4,65,high
-AMD,Ryzen 7 5800G,Socket AM4,65,high
-Intel,Core i3-10105,Socket 1200,65,moderate
-Intel,Core i3-10105F,Socket 1200,65,moderate
-Intel,Core i3-10105T,Socket 1200,35,moderate
-Intel,Core i3-10305,Socket 1200,65,moderate
-Intel,Core i3-10305T,Socket 1200,35,moderate
-Intel,Core i3-10325,Socket 1200,65,moderate
+AMD,Ryzen 7 5700G,Socket AM4,65,moderate
+AMD,Ryzen 7 5800G,Socket AM4,65,moderate
+Intel,Core i3-10105,Socket 1200,65,light
+Intel,Core i3-10105F,Socket 1200,65,light
+Intel,Core i3-10105T,Socket 1200,35,light
+Intel,Core i3-10305,Socket 1200,65,light
+Intel,Core i3-10305T,Socket 1200,35,light
+Intel,Core i3-10325,Socket 1200,65,light
 Intel,Core i5-11400,Socket 1200,65,moderate
 Intel,Core i5-11400F,Socket 1200,65,moderate
 Intel,Core i5-11400T,Socket 1200,35,moderate
@@ -260,13 +109,13 @@ Intel,Core i5-11600,Socket 1200,65,moderate
 Intel,Core i5-11600K,Socket 1200,125,moderate
 Intel,Core i5-11600KF,Socket 1200,125,moderate
 Intel,Core i5-11600T,Socket 1200,35,moderate
-Intel,Core i5-12600K,Socket 1700,125,high
-Intel,Core i5-12600KF,Socket 1700,125,high
+Intel,Core i5-12600K,Socket 1700,125,moderate
+Intel,Core i5-12600KF,Socket 1700,125,moderate
 Intel,Core i7-11700,Socket 1200,65,high
 Intel,Core i7-11700F,Socket 1200,65,high
 Intel,Core i7-11700K,Socket 1200,125,high
 Intel,Core i7-11700KF,Socket 1200,125,high
-Intel,Core i7-11700T,Socket 1200,35,high
+Intel,Core i7-11700T,Socket 1200,35,moderate
 Intel,Core i7-12700K,Socket 1700,125,high
 Intel,Core i7-12700KF,Socket 1700,125,high
 Intel,Core i9-11900,Socket 1200,65,high
