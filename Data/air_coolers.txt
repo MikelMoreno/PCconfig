@@ -1,0 +1,614 @@
+Image	Brand	Model	Height	Width	Depth (with fan)	Weight	RGB Sync	AMD AM4	AMD TR4, SP3	LGA 115X, 1200	LGA 2066	MSRP (USD)	Warranty	Amazon
+«‹1234›»
+	Noctua	NH-L9a-AM4	37mm	114mm	92mm	465g	
+No
+
+Yes
+
+No
+
+No
+
+No
+
+$39.90	6 Years	Amazon
+	Noctua	NH-L9a-AM4 chromax.black	37mm	114mm	92mm	465g	
+No
+
+Yes
+
+No
+
+No
+
+No
+
+$49.90	6 Years	Amazon
+	Noctua	NH-L9i	37mm	95mm	95mm	385g	
+No
+
+No
+
+No
+
+Yes
+
+No
+
+$39.95	6 Years	Amazon
+	Noctua	NH-L9i chromax.black	37mm	95mm	95mm	380g	
+No
+
+No
+
+No
+
+Yes
+
+No
+
+$49.95	6 Years	Amazon
+	Cooler Master	MasterAir G200P	39.4mm	92mm	95mm	281g	
+Yes
+
+Yes
+
+No
+
+Yes
+
+No
+
+$44.99	2 Years	Amazon
+	Noctua	NH-L9x65	65mm	95mm	95mm	413g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$49.95	6 Years	Amazon
+	Noctua	NH-L9x65 SE-AM4	65mm	95mm	95mm	413g	
+No
+
+Yes
+
+No
+
+No
+
+No
+
+$49.90	6 Years	Amazon
+	Noctua	NH-L12S	70mm	128mm	146mm	520g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$49.90	6 Years	Amazon
+	be quiet!	Shadow Rock LP	75.4mm	122mm	134mm	390g	
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+$44.90	3 Years	Amazon
+	Noctua	NH-D9L	110mm	95mm	95mm	531g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$54.95	6 Years	Amazon
+	be quiet!	Shadow Rock TF 2	112mm	165mm	137mm	680g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$59.99	3 Years	Amazon
+	be quiet!	Pure Rock Slim	124.8mm	87mm	81.8mm	360g	
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+$35.30	3 Years	Amazon
+	Noctua	NH-U9S	125mm	95mm	95mm	618g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$59.95	6 Years	Amazon
+	Noctua	NH-U9 TR4-SP3	125mm	95mm	120mm	895g	
+No
+
+No
+
+Yes
+
+No
+
+No
+
+$69.90	6 Years	Amazon
+	Arctic	Freezer 12	130mm	108mm	90mm	480g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$19.99	6 Years	Amazon
+	be quiet!	Dark Rock TF	130.8mm	140mm	162.6mm	810g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$119.98	3 Years	Amazon
+	Arctic	Freezer 7 X	132.5mm	74.3mm	110.5mm	425g	
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+$19.99	6 Years	Amazon
+	Arctic	Freezer 7 X CO	132.5mm	74.3mm	110.5mm	425g	
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+$24.99	6 Years	Amazon
+	Cooler Master	Hyper T2	140mm	93mm	80mm	340g	
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+$21.99	2 Years	Amazon
+	Noctua	NH-C14S	142mm	140mm	163mm	1015g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$74.90	6 Years	Amazon
+	Arctic	Freezer 34 eSports ONE	150mm	123mm	88mm	676g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$29.99	10 Years	Amazon
+	be quiet!	Pure Rock 2	155mm	121mm	87mm	575g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$39.00	3 Years	Amazon
+	be quiet!	Pure Rock 2 Black	155mm	121mm	87mm	575g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$44.00	3 Years	Amazon
+	Arctic	Freezer 34	157mm	124mm	86mm	605g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$24.99	6 Years	Amazon
+	Arctic	Freezer 34 CO	157mm	124mm	86mm	603g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$34.99	6 Years	Amazon
+	Arctic	Freezer 34 eSports DUO	157mm	124mm	103mm	764g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$44.99	10 Years	Amazon
+	Arctic	Freezer 34 eSports	157mm	124mm	88mm	627g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$32.99	10 Years	Amazon
+	Noctua	NH-U12A	158mm	125mm	112mm	1220g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$99.90	6 Years	Amazon
+	Noctua	NH-U12S SE-AM4	158mm	125mm	71mm	755g	
+No
+
+Yes
+
+No
+
+No
+
+No
+
+$59.95	6 Years	Amazon
+	Noctua	NH-U12S	158mm	125mm	71mm	755g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$59.95	6 Years	Amazon
+	Noctua	NH-U12S chromax.black	158mm	125mm	71mm	755g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$129.99	6 Years	Amazon
+	Noctua	NH-U12S TR4-SP3	158mm	125mm	71mm	870g	
+No
+
+No
+
+Yes
+
+No
+
+No
+
+$69.95	6 Years	Amazon
+	Cooler Master	Hyper 212 Black Edition	158.8mm	77mm	123mm	810g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$35.99	2 Years	Amazon
+	Cooler Master	Hyper 212 Evo	158.8mm	120mm	77mm	465g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$34.99	2 Years	Amazon
+	be quiet!	Dark Rock 4	159.4mm	136mm	96.3mm	920g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$74.90	3 Years	Amazon
+	be quiet!	Dark Rock Slim	159.4mm	127mm	72mm	620g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$59.90	3 Years	Amazon
+	Noctua	NH-D15S	160mm	150mm	135mm	1150g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$77.90	6 Years	Amazon
+	be quiet!	Shadow Rock Slim	161mm	137mm	74mm	730g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$49.90	3 Years	Amazon
+	be quiet!	Dark Rock Pro 4	162.8mm	136mm	145.7mm	1130g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$89.90	3 Years	Amazon
+	be quiet!	Dark Rock Pro TR4	162.8mm	136mm	145.7mm	1180g	
+No
+
+No
+
+Yes
+
+No
+
+No
+
+$89.90	3 Years	Amazon
+	be quiet!	Shadow Rock 3	163mm	130mm	121mm	710g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$49.90	3 Years	Amazon
+	GIGABYTE	ATC800	163mm	107mm	139mm	1010g	
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$119.99	3 Years	Amazon
+	Noctua	NH-D15	165mm	150mm	161mm	1320g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$89.95	6 Years	Amazon
+	Noctua	NH-D15 chromax.black	165mm	150mm	161mm	1320g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$99.95	6 Years	Amazon
+	Noctua	NH-D15 SE-AM4	165mm	150mm	161mm	1320g	
+No
+
+Yes
+
+No
+
+No
+
+No
+
+$89.90	6 Years	Amazon
+	Noctua	NH-U14S	165mm	150mm	78mm	935g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$63.75	6 Years	Amazon
+	Noctua	NH-U14S TR4-SP3	165mm	150mm	78mm	1030g	
+No
+
+No
+
+Yes
+
+No
+
+No
+
+$79.90	6 Years	Amazon
+	Arctic	Freezer 50 TR	165mm	149.5mm	147.8mm	1242g	
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+$64.99	6 Years	Amazon
+	CORSAIR	A500	169mm	144mm	171mm	1460g	
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$99.99	5 Years	Amazon
+	GIGABYTE	XTC700	169mm	109mm	139mm	1015g	
+No
+
+No
+
+No
+
+Yes
+
+No
+
+$79.99	3 Years	TBA
+	GIGABYTE	ATC700	169mm	109mm	139mm	955g	
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+$79.99	3 Years
