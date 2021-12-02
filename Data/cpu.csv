@@ -1,49 +1,49 @@
-name,socket,tdp,performance,price
-AMD Ryzen 3 3100,AM4,65,light,215.98
-AMD Ryzen 3 3200G,AM4,65,light,179.7
-AMD Ryzen 3 3300X,AM4,65,light,111.46
-AMD Ryzen 5 3600,AM4,65,moderate,212.54
-AMD Ryzen 5 3600X,AM4,95,moderate,255.7
-AMD Ryzen 5 3600XT,AM4,95,moderate,259.02
-AMD Ryzen 5 5600X,AM4,65,moderate,258.34
-AMD Ryzen 7 3700X,AM4,65,moderate,247.11
-AMD Ryzen 7 3800X,AM4,105,moderate,287.67
-AMD Ryzen 7 3800XT,AM4,105,moderate,359.42
-AMD Ryzen 7 5800X,AM4,105,moderate,345.59
-AMD Ryzen 9 3900X,AM4,105,high,371.51
-AMD Ryzen 9 3950X,AM4,105,high,794.79
-AMD Ryzen 9 5900X,AM4,105,high,509.75
-AMD Ryzen 9 5950X,AM4,105,high,690.34
-Intel Celeron G5920,1200,58,light,52.76
-Intel Core i3-10100,1200,65,light,146.87
-Intel Core i3-9100F,1151,65,light,141.26
-Intel Core i5-10400,1200,65,moderate,182.99
-Intel Core i5-10400F,1200,65,moderate,163.37
-Intel Core i5-10600K,1200,125,moderate,185.67
-Intel Core i5-10600KF,1200,95,moderate,172.79
-Intel Core i5-11400,1200,65,moderate,240.72
-Intel Core i5-11400F,1200,65,moderate,231.54
-Intel Core i5-11500,1200,65,moderate,238.73
-Intel Core i5-11600K,1200,125,moderate,233.27
-Intel Core i5-11600KF,1200,125,moderate,318.82
-Intel Core i5-9400F,1151,65,light,145.07
-Intel Core i5-9600KF,1151,95,light,169.26
-Intel Core i7-10700,1200,65,moderate,267.83
-Intel Core i7-10700F,1200,65,moderate,224.63
-Intel Core i7-10700K,1200,125,high,276.47
-Intel Core i7-10700KF,1200,125,high,207.35
-Intel Core i7-11700,1200,65,high,343.19
-Intel Core i7-11700K,1200,125,high,345.59
-Intel Core i7-11700KF,1200,125,high,414.71
-Intel Core i7-9700,1151,65,light,252.03
-Intel Core i7-9700F,1151,65,light,225.51
-Intel Core i7-9700KF,1151,95,moderate,253.16
-Intel Core i9-10850K,1200,125,high,353.38
-Intel Core i9-10900,1200,65,high,328.31
-Intel Core i9-10900F,1200,65,high,310.17
-Intel Core i9-10900K,1200,125,high,431.99
-Intel Core i9-10900KF,1200,125,high,398.32
-Intel Core i9-10980XE,2066,165,high,855.36
-Intel Core i9-11900K,1200,125,high,470.87
-Intel Core i9-9900KF,1151,95,high,300.67
-Intel Pentium Gold G6400,1200,58,light,82.08
+name,socket,igpu,tdp,performance,price
+AMD Ryzen 3 3100,AM4,,65,light,215.98
+AMD Ryzen 3 3200G,AM4,Radeon Vega 8,65,light,179.7
+AMD Ryzen 3 3300X,AM4,,65,light,111.46
+AMD Ryzen 5 3600,AM4,,65,moderate,212.54
+AMD Ryzen 5 3600X,AM4,,95,moderate,255.7
+AMD Ryzen 5 3600XT,AM4,,95,moderate,259.02
+AMD Ryzen 5 5600X,AM4,,65,moderate,258.34
+AMD Ryzen 7 3700X,AM4,,65,moderate,247.11
+AMD Ryzen 7 3800X,AM4,,105,moderate,287.67
+AMD Ryzen 7 3800XT,AM4,,105,moderate,359.42
+AMD Ryzen 7 5800X,AM4,,105,moderate,345.59
+AMD Ryzen 9 3900X,AM4,,105,high,371.51
+AMD Ryzen 9 3950X,AM4,,105,high,794.79
+AMD Ryzen 9 5900X,AM4,,105,high,509.75
+AMD Ryzen 9 5950X,AM4,,105,high,690.34
+Intel Celeron G5920,1200,Intel UHD Graphics 610,58,light,52.76
+Intel Core i3-10100,1200,Intel UHD Graphics 630,65,light,146.87
+Intel Core i3-9100F,1151,,65,light,141.26
+Intel Core i5-10400,1200,Intel UHD Graphics 630,65,moderate,182.99
+Intel Core i5-10400F,1200,,65,moderate,163.37
+Intel Core i5-10600K,1200,Intel UHD Graphics 630,125,moderate,185.67
+Intel Core i5-10600KF,1200,,95,moderate,172.79
+Intel Core i5-11400,1200,Intel UHD Graphics 730,65,moderate,240.72
+Intel Core i5-11400F,1200,,65,moderate,231.54
+Intel Core i5-11500,1200,Intel UHD Graphics 750,65,moderate,238.73
+Intel Core i5-11600K,1200,Intel UHD Graphics 750,125,moderate,233.27
+Intel Core i5-11600KF,1200,,125,moderate,318.82
+Intel Core i5-9400F,1151,,65,light,145.07
+Intel Core i5-9600KF,1151,,95,light,169.26
+Intel Core i7-10700,1200,Intel UHD Graphics 630,65,moderate,267.83
+Intel Core i7-10700F,1200,,65,moderate,224.63
+Intel Core i7-10700K,1200,Intel UHD Graphics 630,125,high,276.47
+Intel Core i7-10700KF,1200,,125,high,207.35
+Intel Core i7-11700,1200,Intel UHD Graphics 750,65,high,343.19
+Intel Core i7-11700K,1200,Intel UHD Graphics 750,125,high,345.59
+Intel Core i7-11700KF,1200,,125,high,414.71
+Intel Core i7-9700,1151,Intel HD Graphics 630,65,light,252.03
+Intel Core i7-9700F,1151,,65,light,225.51
+Intel Core i7-9700KF,1151,,95,moderate,253.16
+Intel Core i9-10850K,1200,Intel UHD Graphics 630,125,high,353.38
+Intel Core i9-10900,1200,Intel UHD Graphics 630,65,high,328.31
+Intel Core i9-10900F,1200,,65,high,310.17
+Intel Core i9-10900K,1200,Intel UHD Graphics 630,125,high,431.99
+Intel Core i9-10900KF,1200,,125,high,398.32
+Intel Core i9-10980XE,2066,,165,high,855.36
+Intel Core i9-11900K,1200,Intel UHD Graphics 750,125,high,470.87
+Intel Core i9-9900KF,1151,,95,high,300.67
+Intel Pentium Gold G6400,1200,Intel UHD Graphics 610,58,light,82.08

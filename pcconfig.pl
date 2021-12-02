@@ -1,14 +1,8 @@
 %% All performances (light, medium, high)
 %% All uses(gaming, editing, coding)
-%% All OS (windows, macos, linux)
 
 :- dynamic(known/2).
-:- include('database.pl').
-
-% Functiones de los parametros de entrada y de memoria
-haveparams(Perf, Os) :-
-  isknown(perf, Perf),
-  isknown(os, Os).
+:- consult(database). % Include the database
 
 isknown(A, V) :-
   not(known(A, V)),
@@ -27,10 +21,11 @@ perf(Perf) :-
 perf(Perf) :-
   ask(perf, Perf).
 
-os(Os) :-
-  known(os, Os).
-os(Os) :-
-  ask(os, Os).
+budget(Budget) :-
+  known(budget, Budget).
+budget(Budget) :-
+  ask(budget, Budget),
+  Budget = float(Budget).
 
 ask(A, V) :-
   write('Write the'), tab(1), write(A), write(': '),
@@ -40,10 +35,10 @@ ask(A, V) :-
 % RAM minima en funcion del uso y performance
 minram(R) :-
   use(editing),
-  perf(high),
+  perf('high'),
   R = 32.
 minram(R) :-
-  perf(high),
+  perf('high'),
   R = 16.
 minram(R) :-
   R = 8.
@@ -54,10 +49,11 @@ compgpu(G) :-
   gpu(G, gputype(X)).
 
 % Checkea todas las CPUs compatibles con la entrada del usuario
-compcpu(CList) :-
-  haveparams(Perf, Os),
-  findall(C, (cpu(C, perf(L1), os(L2), _, _), member(Perf, L1), member(Os, L2)), CList),
-  CList \= [].
+compcpu(CPUList) :-
+  isknown(perf, Perf),
+  isknown(budget, Budget),
+  findall(C, (cpu(C, _, _, _, perf(Perf), price(P2)), P2 =< 0.2*Budget), CPUList),
+  CPUList \= [].
 compcpu(_) :-
   write('No possible CPU with those requirements.'),
   fail.

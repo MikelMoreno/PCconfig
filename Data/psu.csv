@@ -1,49 +1,49 @@
-name,wattage,efficiency,form_factor,price
-ARESGAME AGV,500,80+ Bronze,ATX,31.1
-Aerocool Integrator,500,80+ Bronze,ATX,150.26
-Antec High Current Gamer Gold,650,80+ Gold,ATX,93.78
-Asus ROG STRIX G,1000,80+ Gold,ATX,198.71
-Asus ROG Strix,850,80+ Gold,ATX,164.15
-Asus ROG Thor 850,850,80+ Platinum,ATX,188.35
-Cooler Master MWE Gold,750,80+ Gold,ATX,93.3
-Cooler Master V Gold V2,750,80+ Gold,ATX,113.35
-Cooler Master V SFX Gold,850,80+ Gold,SFX,130.45
-Corsair AXi,1600,80+ Titanium,ATX,808.62
-Corsair CV,450,80+ Bronze,ATX,30.23
-Corsair CXF,750,80+ Bronze,ATX,99.35
-Corsair CXM,650,80+ Bronze,ATX,73.43
-Corsair CXM (2015),450,80+ Bronze,ATX,51.83
-Corsair HX Platinum,1000,80+ Platinum,ATX,301.53
-Corsair RM (2019),750,80+ Gold,ATX,107.99
-Corsair RMx (2018),850,80+ Gold,ATX,125.27
-Corsair RMx (2021),850,80+ Gold,ATX,129.59
-Corsair RMx White (2018),750,80+ Gold,ATX,125.27
-Corsair SF,750,80+ Platinum,SFX,153.9
-Corsair TXM Gold,550,80+ Gold,ATX,86.39
-EVGA 100-N1-0400-L1,400,,ATX,34.55
-EVGA 100-W1-0500-KR,500,80+,ATX,30.23
-EVGA 100-W1-0600-K1,600,80+,ATX,49.76
-EVGA 210-GQ-0650-V1,650,80+ Gold,ATX,64.78
-EVGA B5,550,80+ Bronze,ATX,51.83
-EVGA BA,600,80+ Bronze,ATX,38.87
-EVGA BQ,600,80+ Bronze,ATX,55.3
-EVGA BR,500,80+ Bronze,ATX,34.55
-EVGA G3,750,80+ Gold,ATX,88.9
-EVGA G5,650,80+ Gold,ATX,51.83
-EVGA GD (2019),600,80+ Gold,ATX,55.76
-EVGA GQ,750,80+ Gold,ATX,76.79
-EVGA SuperNOVA GA,650,80+ Gold,ATX,73.43
-EVGA SuperNOVA GM,650,80+ Gold,SFX,85.54
-EVGA SuperNOVA GT,650,80+ Gold,ATX,43.19
-Gigabyte P GM,750,80+ Gold,ATX,76.02
-Gigabyte P-B,450,80+ Bronze,ATX,24.19
-MSI MPG A-GF,750,80+ Gold,ATX,77.75
-MSI MPG A650GF,650,80+ Gold,ATX,69.63
-NZXT C,850,80+ Gold,ATX,112.31
-SeaSonic FOCUS Plus Gold,650,80+ Gold,ATX,98.5
-SeaSonic FOCUS Plus Platinum,850,80+ Platinum,ATX,141.68
-SeaSonic PRIME Ultra Titanium,1000,80+ Titanium,ATX,266.96
-SeaSonic S12III,650,80+ Bronze,ATX,43.19
-Thermaltake Smart,500,80+,ATX,43.19
-Thermaltake Toughpower DPS G RGB Titanium,1500,80+ Titanium,ATX,1122.34
-be quiet! Straight Power 11,750,80+ Gold,ATX,120.87
+name,wattage,efficiency,price
+ARESGAME AGV,500,80+ Bronze,31.1
+Aerocool Integrator,500,80+ Bronze,150.26
+Antec High Current Gamer Gold,650,80+ Gold,93.78
+Asus ROG STRIX G,1000,80+ Gold,198.71
+Asus ROG Strix,850,80+ Gold,164.15
+Asus ROG Thor 850,850,80+ Platinum,188.35
+Cooler Master MWE Gold,750,80+ Gold,93.3
+Cooler Master V Gold V2,750,80+ Gold,113.35
+Cooler Master V SFX Gold,850,80+ Gold,130.45
+Corsair AXi,1600,80+ Titanium,808.62
+Corsair CV,450,80+ Bronze,30.23
+Corsair CXF,750,80+ Bronze,99.35
+Corsair CXM,650,80+ Bronze,73.43
+Corsair CXM (2015),450,80+ Bronze,51.83
+Corsair HX Platinum,1000,80+ Platinum,301.53
+Corsair RM (2019),750,80+ Gold,107.99
+Corsair RMx (2018),850,80+ Gold,125.27
+Corsair RMx (2021),850,80+ Gold,129.59
+Corsair RMx White (2018),750,80+ Gold,125.27
+Corsair SF,750,80+ Platinum,153.9
+Corsair TXM Gold,550,80+ Gold,86.39
+EVGA 100-N1-0400-L1,400,,34.55
+EVGA 100-W1-0500-KR,500,80+,30.23
+EVGA 100-W1-0600-K1,600,80+,49.76
+EVGA 210-GQ-0650-V1,650,80+ Gold,64.78
+EVGA B5,550,80+ Bronze,51.83
+EVGA BA,600,80+ Bronze,38.87
+EVGA BQ,600,80+ Bronze,55.3
+EVGA BR,500,80+ Bronze,34.55
+EVGA G3,750,80+ Gold,88.9
+EVGA G5,650,80+ Gold,51.83
+EVGA GD (2019),600,80+ Gold,55.76
+EVGA GQ,750,80+ Gold,76.79
+EVGA SuperNOVA GA,650,80+ Gold,73.43
+EVGA SuperNOVA GM,650,80+ Gold,85.54
+EVGA SuperNOVA GT,650,80+ Gold,43.19
+Gigabyte P GM,750,80+ Gold,76.02
+Gigabyte P-B,450,80+ Bronze,24.19
+MSI MPG A-GF,750,80+ Gold,77.75
+MSI MPG A650GF,650,80+ Gold,69.63
+NZXT C,850,80+ Gold,112.31
+SeaSonic FOCUS Plus Gold,650,80+ Gold,98.5
+SeaSonic FOCUS Plus Platinum,850,80+ Platinum,141.68
+SeaSonic PRIME Ultra Titanium,1000,80+ Titanium,266.96
+SeaSonic S12III,650,80+ Bronze,43.19
+Thermaltake Smart,500,80+,43.19
+Thermaltake Toughpower DPS G RGB Titanium,1500,80+ Titanium,1122.34
+be quiet! Straight Power 11,750,80+ Gold,120.87
