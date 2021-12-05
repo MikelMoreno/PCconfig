@@ -47,42 +47,42 @@ cpu('Intel Core i9-11900K', socket('1200'), igpu('Intel UHD Graphics 750'), tdp(
 cpu('Intel Core i9-9900KF', socket('1151'), igpu(nan), tdp(95), performance('high'), price(300.67)).
 cpu('Intel Pentium Gold G6400', socket('1200'), igpu('Intel UHD Graphics 610'), tdp(58), performance('light'), price(82.08)).
 
-gpu('MSI GT 1030 2GH LP OC', model('GeForce GT 1030'), tdp(30), vram(2), length(153), price(155.38)).
-gpu('Asus GT1030-2G-CSM', model('GeForce GT 1030'), tdp(30), vram(2), length(173), price(77.75)).
-gpu('Asus Phoenix Fan OC', model('GeForce GT 1030'), tdp(30), vram(2), length(184), price(125.18)).
-gpu('Zotac GAMING Twin Fan', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), length(158), price(384.2)).
-gpu('Asus TUF GAMING OC', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), length(205), price(431.14)).
-gpu('EVGA SC ULTRA GAMING', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), length(202), price(413.86)).
-gpu('MSI GAMING X', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), length(248), price(467.98)).
-gpu('Gigabyte OC', model('GeForce GTX 1660'), tdp(120), vram(6), length(224), price(529.63)).
-gpu('Asus DUAL EVO OC', model('GeForce GTX 1660 SUPER'), tdp(125), vram(6), length(242), price(464.83)).
-gpu('MSI VENTUS XS OC', model('GeForce GTX 1660 SUPER'), tdp(125), vram(6), length(203), price(543.79)).
-gpu('Asus Phoenix OC', model('GeForce GTX 1660 SUPER'), tdp(125), vram(6), length(174), price(430.27)).
-gpu('Zotac GAMING', model('GeForce RTX 2060'), tdp(160), vram(6), length(209), price(593.53)).
-gpu('NVIDIA Founders Edition', model('GeForce RTX 2070 SUPER'), tdp(215), vram(8), length(266), price(1122.71)).
-gpu('Asus STRIX GAMING OC', model('GeForce RTX 2080 Ti'), tdp(250), vram(11), length(304), price(2851.21)).
-gpu('Zotac GAMING Twin Edge OC', model('GeForce RTX 3060'), tdp(170), vram(12), length(224), price(765.65)).
-gpu('EVGA XC GAMING', model('GeForce RTX 3060'), tdp(170), vram(12), length(201), price(777.6)).
-gpu('MSI VENTUS 2X', model('GeForce RTX 3060'), tdp(170), vram(12), length(235), price(760.32)).
-gpu('MSI GAMING X TRIO', model('GeForce RTX 3070'), tdp(220), vram(8), length(323), price(1010.6)).
-gpu('Gigabyte AORUS MASTER', model('GeForce RTX 3070'), tdp(220), vram(8), length(290), price(1028.14)).
-gpu('EVGA XC3 ULTRA GAMING', model('GeForce RTX 3070'), tdp(220), vram(8), length(285), price(1118.85)).
-gpu('MSI VENTUS 3X OC', model('GeForce RTX 3070'), tdp(220), vram(8), length(305), price(984.96)).
-gpu('Asus KO Gaming OC', model('GeForce RTX 3070'), tdp(220), vram(8), length(275), price(1036.8)).
-gpu('MSI VENTUS 2X OC', model('GeForce RTX 3070'), tdp(220), vram(8), length(232), price(948.67)).
-gpu('Asus ROG STRIX GAMING OC', model('GeForce RTX 3070'), tdp(220), vram(8), length(318), price(1023.76)).
-gpu('Gigabyte GAMING OC', model('GeForce RTX 3070 Ti'), tdp(290), vram(8), length(320), price(1363.4)).
-gpu('EVGA FTW3 ULTRA GAMING', model('GeForce RTX 3080'), tdp(320), vram(10), length(300), price(1649.39)).
-gpu('EVGA FTW3 ULTRA GAMING LE iCX3', model('GeForce RTX 3080 Ti'), tdp(350), vram(12), length(300), price(1671.82)).
-gpu('Gigabyte AORUS XTREME', model('GeForce RTX 3090'), tdp(350), vram(24), length(319), price(3023.16)).
-gpu('MSI SUPRIM', model('GeForce RTX 3090'), tdp(350), vram(24), length(336), price(3022.2)).
-gpu('Asus ROG STRIX WHITE OC', model('GeForce RTX 3090'), tdp(350), vram(24), length(318), price(3152.76)).
-gpu('PNY VCQGV100-PB', model('Quadro GV100'), tdp(250), vram(32), length(267), price(9123.9)).
-gpu('ASRock Phantom Gaming D', model('Radeon RX 570'), tdp(150), vram(4), length(236), price(410.39)).
-gpu('Sapphire NITRO+', model('Radeon RX 580'), tdp(185), vram(4), length(260), price(350.78)).
-gpu('Sapphire PULSE', model('Radeon RX 580'), tdp(185), vram(8), length(230), price(561.59)).
-gpu('XFX Speedster MERC 319 Black', model('Radeon RX 6700 XT'), tdp(230), vram(12), length(323), price(863.96)).
-gpu('PowerColor Hellhound Spectral', model('Radeon RX 6700 XT'), tdp(230), vram(12), length(305), price(902.02)).
+gpu('MSI GT 1030 2GH LP OC', model('GeForce GT 1030'), tdp(30), vram(2), price(155.38)).
+gpu('Asus GT1030-2G-CSM', model('GeForce GT 1030'), tdp(30), vram(2), price(77.75)).
+gpu('Asus Phoenix Fan OC', model('GeForce GT 1030'), tdp(30), vram(2), price(125.18)).
+gpu('Zotac GAMING Twin Fan', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), price(384.2)).
+gpu('Asus TUF GAMING OC', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), price(431.14)).
+gpu('EVGA SC ULTRA GAMING', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), price(413.86)).
+gpu('MSI GAMING X', model('GeForce GTX 1650 SUPER'), tdp(100), vram(4), price(467.98)).
+gpu('Gigabyte OC', model('GeForce GTX 1660'), tdp(120), vram(6), price(529.63)).
+gpu('Asus DUAL EVO OC', model('GeForce GTX 1660 SUPER'), tdp(125), vram(6), price(464.83)).
+gpu('MSI VENTUS XS OC', model('GeForce GTX 1660 SUPER'), tdp(125), vram(6), price(543.79)).
+gpu('Asus Phoenix OC', model('GeForce GTX 1660 SUPER'), tdp(125), vram(6), price(430.27)).
+gpu('Zotac GAMING', model('GeForce RTX 2060'), tdp(160), vram(6), price(593.53)).
+gpu('NVIDIA Founders Edition', model('GeForce RTX 2070 SUPER'), tdp(215), vram(8), price(1122.71)).
+gpu('Asus STRIX GAMING OC', model('GeForce RTX 2080 Ti'), tdp(250), vram(11), price(2851.21)).
+gpu('Zotac GAMING Twin Edge OC', model('GeForce RTX 3060'), tdp(170), vram(12), price(765.65)).
+gpu('EVGA XC GAMING', model('GeForce RTX 3060'), tdp(170), vram(12), price(777.6)).
+gpu('MSI VENTUS 2X', model('GeForce RTX 3060'), tdp(170), vram(12), price(760.32)).
+gpu('MSI GAMING X TRIO', model('GeForce RTX 3070'), tdp(220), vram(8), price(1010.6)).
+gpu('Gigabyte AORUS MASTER', model('GeForce RTX 3070'), tdp(220), vram(8), price(1028.14)).
+gpu('EVGA XC3 ULTRA GAMING', model('GeForce RTX 3070'), tdp(220), vram(8), price(1118.85)).
+gpu('MSI VENTUS 3X OC', model('GeForce RTX 3070'), tdp(220), vram(8), price(984.96)).
+gpu('Asus KO Gaming OC', model('GeForce RTX 3070'), tdp(220), vram(8), price(1036.8)).
+gpu('MSI VENTUS 2X OC', model('GeForce RTX 3070'), tdp(220), vram(8), price(948.67)).
+gpu('Asus ROG STRIX GAMING OC', model('GeForce RTX 3070'), tdp(220), vram(8), price(1023.76)).
+gpu('Gigabyte GAMING OC', model('GeForce RTX 3070 Ti'), tdp(290), vram(8), price(1363.4)).
+gpu('EVGA FTW3 ULTRA GAMING', model('GeForce RTX 3080'), tdp(320), vram(10), price(1649.39)).
+gpu('EVGA FTW3 ULTRA GAMING LE iCX3', model('GeForce RTX 3080 Ti'), tdp(350), vram(12), price(1671.82)).
+gpu('Gigabyte AORUS XTREME', model('GeForce RTX 3090'), tdp(350), vram(24), price(3023.16)).
+gpu('MSI SUPRIM', model('GeForce RTX 3090'), tdp(350), vram(24), price(3022.2)).
+gpu('Asus ROG STRIX WHITE OC', model('GeForce RTX 3090'), tdp(350), vram(24), price(3152.76)).
+gpu('PNY VCQGV100-PB', model('Quadro GV100'), tdp(250), vram(32), price(9123.9)).
+gpu('ASRock Phantom Gaming D', model('Radeon RX 570'), tdp(150), vram(4), price(410.39)).
+gpu('Sapphire NITRO+', model('Radeon RX 580'), tdp(185), vram(4), price(350.78)).
+gpu('Sapphire PULSE', model('Radeon RX 580'), tdp(185), vram(8), price(561.59)).
+gpu('XFX Speedster MERC 319 Black', model('Radeon RX 6700 XT'), tdp(230), vram(12), price(863.96)).
+gpu('PowerColor Hellhound Spectral', model('Radeon RX 6700 XT'), tdp(230), vram(12), price(902.02)).
 
 board('ASRock A320M-HDV R4.0', socket('AM4'), form_factor('Micro ATX'), max_ram(32), memory_slots(2), price(55.29)).
 board('ASRock B450 Pro4', socket('AM4'), form_factor('ATX'), max_ram(64), memory_slots(4), price(74.3)).
