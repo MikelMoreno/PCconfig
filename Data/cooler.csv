@@ -1,47 +1,47 @@
 name,socket,performance,price
-Arctic Freezer 12,"['AM4', '1151', '1200', '2066']",light,17.27
-Arctic Freezer 34,"['AM4', '1151', '1200', '2066']",moderate,21.59
-Arctic Freezer 34 CO,"['AM4', '1151', '1200', '2066']",moderate,30.23
-Arctic Freezer 34 eSports,"['AM4', '1151', '1200', '2066']",moderate,28.5
-Arctic Freezer 34 eSports DUO,"['AM4', '1151', '1200', '2066']",moderate,38.87
-Arctic Freezer 34 eSports ONE,"['AM4', '1151', '1200', '2066']",moderate,25.91
-Arctic Freezer 7 X,"['AM4', '1151', '1200']",light,17.27
-Arctic Freezer 7 X CO,"['AM4', '1151', '1200']",light,21.59
-CORSAIR A500,"['AM4', '1151', '1200', '2066']",high,86.39
-Cooler Master Hyper 212 Black Edition,"['AM4', '1151', '1200', '2066']",moderate,31.1
-Cooler Master Hyper 212 Evo,"['AM4', '1151', '1200', '2066']",moderate,30.23
-Cooler Master Hyper T2,"['AM4', '1151', '1200']",light,19.0
-Cooler Master MasterAir G200P,"['AM4', '1151', '1200']",light,38.87
-Dark Rock 4,"['AM4', '1151', '1200', '2066']",high,64.71
-Dark Rock Pro 4,"['AM4', '1151', '1200', '2066']",high,77.67
-Dark Rock Slim,"['AM4', '1151', '1200', '2066']",moderate,51.75
-Dark Rock TF,"['AM4', '1151', '1200', '2066']",high,103.66
-GIGABYTE ATC700,"['AM4', '1151', '1200', '2066']",high,69.11
 GIGABYTE ATC800,"['AM4', '1151', '1200', '2066']",high,103.67
-GIGABYTE XTC700,"['1151', '1200']",high,69.11
-Noctua NH-C14S,"['AM4', '1151', '1200', '2066']",high,64.71
-Noctua NH-D15,"['AM4', '1151', '1200', '2066']",high,77.72
-Noctua NH-D15 SE-AM4,['AM4'],high,77.67
+Dark Rock TF,"['AM4', '1151', '1200', '2066']",high,103.66
+CORSAIR A500,"['AM4', '1151', '1200', '2066']",high,86.39
 Noctua NH-D15 chromax.black,"['AM4', '1151', '1200', '2066']",high,86.36
+Noctua NH-U12A,"['AM4', '1151', '1200', '2066']",high,86.31
+Noctua NH-D15,"['AM4', '1151', '1200', '2066']",high,77.72
+Dark Rock Pro 4,"['AM4', '1151', '1200', '2066']",high,77.67
+Noctua NH-D15 SE-AM4,['AM4'],high,77.67
+GIGABYTE ATC700,"['AM4', '1151', '1200', '2066']",high,69.11
+GIGABYTE XTC700,"['1151', '1200']",high,69.11
 Noctua NH-D15S,"['AM4', '1151', '1200', '2066']",high,67.31
+Dark Rock 4,"['AM4', '1151', '1200', '2066']",high,64.71
+Noctua NH-C14S,"['AM4', '1151', '1200', '2066']",high,64.71
+Shadow Rock TF 2,"['AM4', '1151', '1200', '2066']",high,51.83
+Shadow Rock 3,"['AM4', '1151', '1200', '2066']",high,43.11
+Noctua NH-U9S,"['AM4', '1151', '1200', '2066']",light,51.8
 Noctua NH-D9L,"['AM4', '1151', '1200', '2066']",light,47.48
-Noctua NH-L12S,"['AM4', '1151', '1200', '2066']",light,43.11
-Noctua NH-L9a-AM4,['AM4'],light,34.47
-Noctua NH-L9a-AM4 chromax.black,['AM4'],light,43.11
-Noctua NH-L9i,"['1151', '1200']",light,34.52
 Noctua NH-L9i chromax.black,"['1151', '1200']",light,43.16
 Noctua NH-L9x65,"['AM4', '1151', '1200', '2066']",light,43.16
+Noctua NH-L12S,"['AM4', '1151', '1200', '2066']",light,43.11
+Noctua NH-L9a-AM4 chromax.black,['AM4'],light,43.11
 Noctua NH-L9x65 SE-AM4,['AM4'],light,43.11
-Noctua NH-U12A,"['AM4', '1151', '1200', '2066']",high,86.31
-Noctua NH-U12S,"['AM4', '1151', '1200', '2066']",moderate,51.8
-Noctua NH-U12S SE-AM4,['AM4'],moderate,51.8
+Cooler Master MasterAir G200P,"['AM4', '1151', '1200']",light,38.87
+Shadow Rock LP,"['AM4', '1151', '1200']",light,38.79
+Noctua NH-L9i,"['1151', '1200']",light,34.52
+Noctua NH-L9a-AM4,['AM4'],light,34.47
+Pure Rock Slim,"['AM4', '1151', '1200']",light,30.5
+Arctic Freezer 7 X CO,"['AM4', '1151', '1200']",light,21.59
+Cooler Master Hyper T2,"['AM4', '1151', '1200']",light,19.0
+Arctic Freezer 12,"['AM4', '1151', '1200', '2066']",light,17.27
+Arctic Freezer 7 X,"['AM4', '1151', '1200']",light,17.27
 Noctua NH-U12S chromax.black,"['AM4', '1151', '1200', '2066']",moderate,112.31
 Noctua NH-U14S,"['AM4', '1151', '1200', '2066']",moderate,55.08
-Noctua NH-U9S,"['AM4', '1151', '1200', '2066']",light,51.8
-Pure Rock 2,"['AM4', '1151', '1200', '2066']",moderate,33.7
-Pure Rock 2 Black,"['AM4', '1151', '1200', '2066']",moderate,38.02
-Pure Rock Slim,"['AM4', '1151', '1200']",light,30.5
-Shadow Rock 3,"['AM4', '1151', '1200', '2066']",high,43.11
-Shadow Rock LP,"['AM4', '1151', '1200']",light,38.79
+Noctua NH-U12S,"['AM4', '1151', '1200', '2066']",moderate,51.8
+Noctua NH-U12S SE-AM4,['AM4'],moderate,51.8
+Dark Rock Slim,"['AM4', '1151', '1200', '2066']",moderate,51.75
 Shadow Rock Slim,"['AM4', '1151', '1200', '2066']",moderate,43.11
-Shadow Rock TF 2,"['AM4', '1151', '1200', '2066']",high,51.83
+Arctic Freezer 34 eSports DUO,"['AM4', '1151', '1200', '2066']",moderate,38.87
+Pure Rock 2 Black,"['AM4', '1151', '1200', '2066']",moderate,38.02
+Pure Rock 2,"['AM4', '1151', '1200', '2066']",moderate,33.7
+Cooler Master Hyper 212 Black Edition,"['AM4', '1151', '1200', '2066']",moderate,31.1
+Arctic Freezer 34 CO,"['AM4', '1151', '1200', '2066']",moderate,30.23
+Cooler Master Hyper 212 Evo,"['AM4', '1151', '1200', '2066']",moderate,30.23
+Arctic Freezer 34 eSports,"['AM4', '1151', '1200', '2066']",moderate,28.5
+Arctic Freezer 34 eSports ONE,"['AM4', '1151', '1200', '2066']",moderate,25.91
+Arctic Freezer 34,"['AM4', '1151', '1200', '2066']",moderate,21.59
