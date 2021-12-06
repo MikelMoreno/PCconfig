@@ -225,7 +225,7 @@ main :-
   format('PC Configurator by Group F (Modelos de Razonamiento, 2021/2022)~n'),
   format('- Possible PC performances: light, moderate or high.~n'),
   format('- Possible PC sizes: small or regular.~n'),
-  format('- Relevant PC uses: gaming and editing.~n'), nl,
+  format('- Relevant PC uses that will alter the configuration: gaming and editing.~n'), nl,
   listcpu(CL),
   maplist(compgpu, GL, NL, CL),
   maplist(compboard, BL, CL),
