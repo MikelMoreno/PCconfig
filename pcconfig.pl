@@ -221,22 +221,22 @@ iter_print_build([C|Cs], [N|Ns], [G|Gs], [B|Bs], [R|Rs], [O|Os], [P|Ps], [E|Es],
 iter_print_build([_|Cs], [_|Ns], [_|Gs], [_|Bs], [_|Rs], [_|Os], [_|Ps], [_|Es], [_|As]) :-
   iter_print_build(Cs, Ns, Gs, Bs, Rs, Os, Ps, Es, As).
 
-  main :-
-    format('PC Configurator by Group F (Modelos de Razonamiento, 2021/2022)~n'),
-    format('- Possible PC performances: light, moderate or high.~n'),
-    format('- Possible PC sizes: small or regular.~n'),
-    format('- Relevant PC uses: gaming and editing.~n'), nl,
-    listcpu(CL),
-    maplist(compgpu, GL, NL, CL),
-    maplist(compboard, BL, CL),
-    maplist(compcase, EL, BL),
-    maplist(compram, RL, AL, BL),
-    maplist(comppsu, PL, CL, GL, NL),
-    maplist(compcool, OL, CL),
-    nl,
-    iter_print_build(CL, NL, GL, BL, RL, OL, PL, EL, AL),
-    halt.
-  main :-
-    format('Could not find a feasible configuration.~n'),
-    fail,
-    halt.
+main :-
+  format('PC Configurator by Group F (Modelos de Razonamiento, 2021/2022)~n'),
+  format('- Possible PC performances: light, moderate or high.~n'),
+  format('- Possible PC sizes: small or regular.~n'),
+  format('- Relevant PC uses: gaming and editing.~n'), nl,
+  listcpu(CL),
+  maplist(compgpu, GL, NL, CL),
+  maplist(compboard, BL, CL),
+  maplist(compcase, EL, BL),
+  maplist(compram, RL, AL, BL),
+  maplist(comppsu, PL, CL, GL, NL),
+  maplist(compcool, OL, CL),
+  nl,
+  iter_print_build(CL, NL, GL, BL, RL, OL, PL, EL, AL),
+  halt.
+main :-
+  format('Could not find a feasible configuration.~n'),
+  fail,
+  halt.
