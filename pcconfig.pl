@@ -212,7 +212,7 @@ print_build(Cpu, Name, Gpu, Board, Ram, Cooler, Psu, Case, Amount) :-
   PTotal is P1 + P2 + P3 + P4 + P5 + P6 + P7,
   format('|~`-t~80|| ~n'),
   format('|~`-t~80|| ~n'),
-  format('| ~s~t~15|| ~2f € ~t~65+|~n', ['Price', PTotal]),
+  format('| ~s~t~15|| ~2f EUR ~t~65+|~n', ['Price', PTotal]),
   format('+~`-t~80|+ ~n'), nl.
 
 iter_print_build([], [], [], [], [], [], [], [], []).
